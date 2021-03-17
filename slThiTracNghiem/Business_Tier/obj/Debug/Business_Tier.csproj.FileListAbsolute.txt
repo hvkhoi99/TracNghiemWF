@@ -1,0 +1,78 @@
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.pdb
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.dll
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.pdb
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.dll
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.dll
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.pdb
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.pdb
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.dll
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.pdb
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.dll
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.csprojResolveAssemblyReference.cache
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.pdb
+C:\Garena\slThiTracNghiem\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Garena\slThiTracNghiem\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Garena\slThiTracNghiem\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Garena\slThiTracNghiem\Business_Tier\bin\Debug\Entities.dll
+C:\Garena\slThiTracNghiem\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Garena\slThiTracNghiem\Business_Tier\bin\Debug\Entities.pdb
+C:\Garena\slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.csprojResolveAssemblyReference.cache
+C:\Garena\slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Garena\slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.pdb
+C:\Garena\slThiTracNghiem\Business_Tier\bin\Debug\Business_Tier.dll.config
+C:\Garena\slThiTracNghiem\Business_Tier\bin\Debug\EntityFramework.dll
+C:\Garena\slThiTracNghiem\Business_Tier\bin\Debug\EntityFramework.SqlServer.dll
+C:\Garena\slThiTracNghiem\Business_Tier\bin\Debug\EntityFramework.xml
+C:\Garena\slThiTracNghiem\Business_Tier\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\bin\Debug\Business_Tier.dll.config
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\bin\Debug\Entities.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\bin\Debug\EntityFramework.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\bin\Debug\EntityFramework.xml
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.csprojResolveAssemblyReference.cache
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.pdb
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\bin\Debug\Business_Tier.dll.config
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\bin\Debug\Entities.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\bin\Debug\EntityFramework.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\bin\Debug\EntityFramework.xml
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.csprojResolveAssemblyReference.cache
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.pdb

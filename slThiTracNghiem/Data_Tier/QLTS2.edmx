@@ -1,0 +1,479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="2.0" xmlns:edmx="http://schemas.microsoft.com/ado/2008/10/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="DB_TRACNGHIEMModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+        <EntityContainer Name="DB_TRACNGHIEMModelStoreContainer">
+          <EntitySet Name="sysdiagrams" EntityType="DB_TRACNGHIEMModel.Store.sysdiagrams" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TB_CAUHOI" EntityType="DB_TRACNGHIEMModel.Store.TB_CAUHOI" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TB_DAPAN" EntityType="DB_TRACNGHIEMModel.Store.TB_DAPAN" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TB_KETQUA" EntityType="DB_TRACNGHIEMModel.Store.TB_KETQUA" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TB_MONTHI" EntityType="DB_TRACNGHIEMModel.Store.TB_MONTHI" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TB_NHANVIEN" EntityType="DB_TRACNGHIEMModel.Store.TB_NHANVIEN" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="TB_THISINH" EntityType="DB_TRACNGHIEMModel.Store.TB_THISINH" store:Type="Tables" Schema="dbo" />
+          <AssociationSet Name="FK_TB_CAUHOI_TB_MONTHI" Association="DB_TRACNGHIEMModel.Store.FK_TB_CAUHOI_TB_MONTHI">
+            <End Role="TB_MONTHI" EntitySet="TB_MONTHI" />
+            <End Role="TB_CAUHOI" EntitySet="TB_CAUHOI" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TB_CAUHOI_TB_NHANVIEN" Association="DB_TRACNGHIEMModel.Store.FK_TB_CAUHOI_TB_NHANVIEN">
+            <End Role="TB_NHANVIEN" EntitySet="TB_NHANVIEN" />
+            <End Role="TB_CAUHOI" EntitySet="TB_CAUHOI" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TB_DAPAN_TB_CAUHOI" Association="DB_TRACNGHIEMModel.Store.FK_TB_DAPAN_TB_CAUHOI">
+            <End Role="TB_CAUHOI" EntitySet="TB_CAUHOI" />
+            <End Role="TB_DAPAN" EntitySet="TB_DAPAN" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TB_KETQUA_TB_MONTHI" Association="DB_TRACNGHIEMModel.Store.FK_TB_KETQUA_TB_MONTHI">
+            <End Role="TB_MONTHI" EntitySet="TB_MONTHI" />
+            <End Role="TB_KETQUA" EntitySet="TB_KETQUA" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TB_KETQUA_TB_THISINH" Association="DB_TRACNGHIEMModel.Store.FK_TB_KETQUA_TB_THISINH">
+            <End Role="TB_THISINH" EntitySet="TB_THISINH" />
+            <End Role="TB_KETQUA" EntitySet="TB_KETQUA" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" Nullable="false" MaxLength="128" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="TB_CAUHOI">
+          <Key>
+            <PropertyRef Name="MACAUHOI" />
+          </Key>
+          <Property Name="MACAUHOI" Type="nchar" Nullable="false" MaxLength="6" />
+          <Property Name="NOIDUNG" Type="nvarchar(max)" />
+          <Property Name="MAMON" Type="nchar" MaxLength="5" />
+          <Property Name="MANHANVIEN" Type="nchar" MaxLength="6" />
+        </EntityType>
+        <EntityType Name="TB_DAPAN">
+          <Key>
+            <PropertyRef Name="MACAUHOI" />
+            <PropertyRef Name="MADAPAN" />
+          </Key>
+          <Property Name="MACAUHOI" Type="nchar" Nullable="false" MaxLength="6" />
+          <Property Name="MADAPAN" Type="nchar" Nullable="false" MaxLength="6" />
+          <Property Name="NOIDUNGDAPAN" Type="nvarchar" MaxLength="200" />
+          <Property Name="KIEUDAPAN" Type="nchar" MaxLength="10" />
+        </EntityType>
+        <EntityType Name="TB_KETQUA">
+          <Key>
+            <PropertyRef Name="MAKQ" />
+          </Key>
+          <Property Name="MAKQ" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="MATHISINH" Type="nchar" MaxLength="10" />
+          <Property Name="TENTHISINH" Type="nvarchar" MaxLength="50" />
+          <Property Name="MAMON" Type="nchar" MaxLength="5" />
+          <Property Name="DIEM" Type="real" />
+          <Property Name="NGAYTHI" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="TB_MONTHI">
+          <Key>
+            <PropertyRef Name="MAMON" />
+          </Key>
+          <Property Name="MAMON" Type="nchar" Nullable="false" MaxLength="5" />
+          <Property Name="TENMON" Type="nvarchar" Nullable="false" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="TB_NHANVIEN">
+          <Key>
+            <PropertyRef Name="MANHANVIEN" />
+          </Key>
+          <Property Name="MANHANVIEN" Type="nchar" Nullable="false" MaxLength="6" />
+          <Property Name="HOTEN" Type="nvarchar" MaxLength="50" />
+          <Property Name="TENDN" Type="nvarchar" MaxLength="50" />
+          <Property Name="MATKHAU" Type="nvarchar" MaxLength="20" />
+          <Property Name="CHUCVU" Type="nchar" MaxLength="20" />
+          <Property Name="DIACHI" Type="nvarchar" MaxLength="300" />
+          <Property Name="SODIENTHOAI" Type="nchar" MaxLength="15" />
+        </EntityType>
+        <EntityType Name="TB_THISINH">
+          <Key>
+            <PropertyRef Name="MATHISINH" />
+          </Key>
+          <Property Name="MATHISINH" Type="nchar" Nullable="false" MaxLength="10" />
+          <Property Name="HOTEN" Type="nvarchar" MaxLength="50" />
+          <Property Name="TENDN" Type="nchar" Nullable="false" MaxLength="20" />
+          <Property Name="MATKHAU" Type="nchar" Nullable="false" MaxLength="10" />
+          <Property Name="DIACHI" Type="nchar" MaxLength="100" />
+        </EntityType>
+        <Association Name="FK_TB_CAUHOI_TB_MONTHI">
+          <End Role="TB_MONTHI" Type="DB_TRACNGHIEMModel.Store.TB_MONTHI" Multiplicity="0..1" />
+          <End Role="TB_CAUHOI" Type="DB_TRACNGHIEMModel.Store.TB_CAUHOI" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TB_MONTHI">
+              <PropertyRef Name="MAMON" />
+            </Principal>
+            <Dependent Role="TB_CAUHOI">
+              <PropertyRef Name="MAMON" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TB_CAUHOI_TB_NHANVIEN">
+          <End Role="TB_NHANVIEN" Type="DB_TRACNGHIEMModel.Store.TB_NHANVIEN" Multiplicity="0..1" />
+          <End Role="TB_CAUHOI" Type="DB_TRACNGHIEMModel.Store.TB_CAUHOI" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TB_NHANVIEN">
+              <PropertyRef Name="MANHANVIEN" />
+            </Principal>
+            <Dependent Role="TB_CAUHOI">
+              <PropertyRef Name="MANHANVIEN" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TB_DAPAN_TB_CAUHOI">
+          <End Role="TB_CAUHOI" Type="DB_TRACNGHIEMModel.Store.TB_CAUHOI" Multiplicity="1" />
+          <End Role="TB_DAPAN" Type="DB_TRACNGHIEMModel.Store.TB_DAPAN" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TB_CAUHOI">
+              <PropertyRef Name="MACAUHOI" />
+            </Principal>
+            <Dependent Role="TB_DAPAN">
+              <PropertyRef Name="MACAUHOI" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TB_KETQUA_TB_MONTHI">
+          <End Role="TB_MONTHI" Type="DB_TRACNGHIEMModel.Store.TB_MONTHI" Multiplicity="0..1" />
+          <End Role="TB_KETQUA" Type="DB_TRACNGHIEMModel.Store.TB_KETQUA" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TB_MONTHI">
+              <PropertyRef Name="MAMON" />
+            </Principal>
+            <Dependent Role="TB_KETQUA">
+              <PropertyRef Name="MAMON" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TB_KETQUA_TB_THISINH">
+          <End Role="TB_THISINH" Type="DB_TRACNGHIEMModel.Store.TB_THISINH" Multiplicity="0..1" />
+          <End Role="TB_KETQUA" Type="DB_TRACNGHIEMModel.Store.TB_KETQUA" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TB_THISINH">
+              <PropertyRef Name="MATHISINH" />
+            </Principal>
+            <Dependent Role="TB_KETQUA">
+              <PropertyRef Name="MATHISINH" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="DB_TRACNGHIEMModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+        <EntityContainer Name="DB_TRACNGHIEMEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="sysdiagrams" EntityType="DB_TRACNGHIEMModel.sysdiagrams" />
+          <EntitySet Name="TB_CAUHOI" EntityType="DB_TRACNGHIEMModel.TB_CAUHOI" />
+          <EntitySet Name="TB_DAPAN" EntityType="DB_TRACNGHIEMModel.TB_DAPAN" />
+          <EntitySet Name="TB_KETQUA" EntityType="DB_TRACNGHIEMModel.TB_KETQUA" />
+          <EntitySet Name="TB_MONTHI" EntityType="DB_TRACNGHIEMModel.TB_MONTHI" />
+          <EntitySet Name="TB_NHANVIEN" EntityType="DB_TRACNGHIEMModel.TB_NHANVIEN" />
+          <EntitySet Name="TB_THISINH" EntityType="DB_TRACNGHIEMModel.TB_THISINH" />
+          <AssociationSet Name="FK_TB_CAUHOI_TB_MONTHI" Association="DB_TRACNGHIEMModel.FK_TB_CAUHOI_TB_MONTHI">
+            <End Role="TB_MONTHI" EntitySet="TB_MONTHI" />
+            <End Role="TB_CAUHOI" EntitySet="TB_CAUHOI" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TB_CAUHOI_TB_NHANVIEN" Association="DB_TRACNGHIEMModel.FK_TB_CAUHOI_TB_NHANVIEN">
+            <End Role="TB_NHANVIEN" EntitySet="TB_NHANVIEN" />
+            <End Role="TB_CAUHOI" EntitySet="TB_CAUHOI" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TB_DAPAN_TB_CAUHOI" Association="DB_TRACNGHIEMModel.FK_TB_DAPAN_TB_CAUHOI">
+            <End Role="TB_CAUHOI" EntitySet="TB_CAUHOI" />
+            <End Role="TB_DAPAN" EntitySet="TB_DAPAN" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TB_KETQUA_TB_MONTHI" Association="DB_TRACNGHIEMModel.FK_TB_KETQUA_TB_MONTHI">
+            <End Role="TB_MONTHI" EntitySet="TB_MONTHI" />
+            <End Role="TB_KETQUA" EntitySet="TB_KETQUA" />
+          </AssociationSet>
+          <AssociationSet Name="FK_TB_KETQUA_TB_THISINH" Association="DB_TRACNGHIEMModel.FK_TB_KETQUA_TB_THISINH">
+            <End Role="TB_THISINH" EntitySet="TB_THISINH" />
+            <End Role="TB_KETQUA" EntitySet="TB_KETQUA" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" Nullable="false" MaxLength="128" Unicode="true" FixedLength="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="TB_CAUHOI">
+          <Key>
+            <PropertyRef Name="MACAUHOI" />
+          </Key>
+          <Property Name="MACAUHOI" Type="String" Nullable="false" MaxLength="6" Unicode="true" FixedLength="true" />
+          <Property Name="NOIDUNG" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+          <Property Name="MAMON" Type="String" MaxLength="5" Unicode="true" FixedLength="true" />
+          <Property Name="MANHANVIEN" Type="String" MaxLength="6" Unicode="true" FixedLength="true" />
+          <NavigationProperty Name="TB_MONTHI" Relationship="DB_TRACNGHIEMModel.FK_TB_CAUHOI_TB_MONTHI" FromRole="TB_CAUHOI" ToRole="TB_MONTHI" />
+          <NavigationProperty Name="TB_NHANVIEN" Relationship="DB_TRACNGHIEMModel.FK_TB_CAUHOI_TB_NHANVIEN" FromRole="TB_CAUHOI" ToRole="TB_NHANVIEN" />
+          <NavigationProperty Name="TB_DAPAN" Relationship="DB_TRACNGHIEMModel.FK_TB_DAPAN_TB_CAUHOI" FromRole="TB_CAUHOI" ToRole="TB_DAPAN" />
+        </EntityType>
+        <EntityType Name="TB_DAPAN">
+          <Key>
+            <PropertyRef Name="MACAUHOI" />
+            <PropertyRef Name="MADAPAN" />
+          </Key>
+          <Property Name="MACAUHOI" Type="String" Nullable="false" MaxLength="6" Unicode="true" FixedLength="true" />
+          <Property Name="MADAPAN" Type="String" Nullable="false" MaxLength="6" Unicode="true" FixedLength="true" />
+          <Property Name="NOIDUNGDAPAN" Type="String" MaxLength="200" Unicode="true" FixedLength="false" />
+          <Property Name="KIEUDAPAN" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+          <NavigationProperty Name="TB_CAUHOI" Relationship="DB_TRACNGHIEMModel.FK_TB_DAPAN_TB_CAUHOI" FromRole="TB_DAPAN" ToRole="TB_CAUHOI" />
+        </EntityType>
+        <EntityType Name="TB_KETQUA">
+          <Key>
+            <PropertyRef Name="MAKQ" />
+          </Key>
+          <Property Name="MAKQ" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="MATHISINH" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+          <Property Name="TENTHISINH" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="MAMON" Type="String" MaxLength="5" Unicode="true" FixedLength="true" />
+          <Property Name="DIEM" Type="Single" />
+          <Property Name="NGAYTHI" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <NavigationProperty Name="TB_MONTHI" Relationship="DB_TRACNGHIEMModel.FK_TB_KETQUA_TB_MONTHI" FromRole="TB_KETQUA" ToRole="TB_MONTHI" />
+          <NavigationProperty Name="TB_THISINH" Relationship="DB_TRACNGHIEMModel.FK_TB_KETQUA_TB_THISINH" FromRole="TB_KETQUA" ToRole="TB_THISINH" />
+        </EntityType>
+        <EntityType Name="TB_MONTHI">
+          <Key>
+            <PropertyRef Name="MAMON" />
+          </Key>
+          <Property Name="MAMON" Type="String" Nullable="false" MaxLength="5" Unicode="true" FixedLength="true" />
+          <Property Name="TENMON" Type="String" Nullable="false" MaxLength="50" Unicode="true" FixedLength="false" />
+          <NavigationProperty Name="TB_CAUHOI" Relationship="DB_TRACNGHIEMModel.FK_TB_CAUHOI_TB_MONTHI" FromRole="TB_MONTHI" ToRole="TB_CAUHOI" />
+          <NavigationProperty Name="TB_KETQUA" Relationship="DB_TRACNGHIEMModel.FK_TB_KETQUA_TB_MONTHI" FromRole="TB_MONTHI" ToRole="TB_KETQUA" />
+        </EntityType>
+        <EntityType Name="TB_NHANVIEN">
+          <Key>
+            <PropertyRef Name="MANHANVIEN" />
+          </Key>
+          <Property Name="MANHANVIEN" Type="String" Nullable="false" MaxLength="6" Unicode="true" FixedLength="true" />
+          <Property Name="HOTEN" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="TENDN" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="MATKHAU" Type="String" MaxLength="20" Unicode="true" FixedLength="false" />
+          <Property Name="CHUCVU" Type="String" MaxLength="20" Unicode="true" FixedLength="true" />
+          <Property Name="DIACHI" Type="String" MaxLength="300" Unicode="true" FixedLength="false" />
+          <Property Name="SODIENTHOAI" Type="String" MaxLength="15" Unicode="true" FixedLength="true" />
+          <NavigationProperty Name="TB_CAUHOI" Relationship="DB_TRACNGHIEMModel.FK_TB_CAUHOI_TB_NHANVIEN" FromRole="TB_NHANVIEN" ToRole="TB_CAUHOI" />
+        </EntityType>
+        <EntityType Name="TB_THISINH">
+          <Key>
+            <PropertyRef Name="MATHISINH" />
+          </Key>
+          <Property Name="MATHISINH" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="true" />
+          <Property Name="HOTEN" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+          <Property Name="TENDN" Type="String" Nullable="false" MaxLength="20" Unicode="true" FixedLength="true" />
+          <Property Name="MATKHAU" Type="String" Nullable="false" MaxLength="10" Unicode="true" FixedLength="true" />
+          <Property Name="DIACHI" Type="String" MaxLength="100" Unicode="true" FixedLength="true" />
+          <NavigationProperty Name="TB_KETQUA" Relationship="DB_TRACNGHIEMModel.FK_TB_KETQUA_TB_THISINH" FromRole="TB_THISINH" ToRole="TB_KETQUA" />
+        </EntityType>
+        <Association Name="FK_TB_CAUHOI_TB_MONTHI">
+          <End Role="TB_MONTHI" Type="DB_TRACNGHIEMModel.TB_MONTHI" Multiplicity="0..1" />
+          <End Role="TB_CAUHOI" Type="DB_TRACNGHIEMModel.TB_CAUHOI" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TB_MONTHI">
+              <PropertyRef Name="MAMON" />
+            </Principal>
+            <Dependent Role="TB_CAUHOI">
+              <PropertyRef Name="MAMON" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TB_CAUHOI_TB_NHANVIEN">
+          <End Role="TB_NHANVIEN" Type="DB_TRACNGHIEMModel.TB_NHANVIEN" Multiplicity="0..1" />
+          <End Role="TB_CAUHOI" Type="DB_TRACNGHIEMModel.TB_CAUHOI" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TB_NHANVIEN">
+              <PropertyRef Name="MANHANVIEN" />
+            </Principal>
+            <Dependent Role="TB_CAUHOI">
+              <PropertyRef Name="MANHANVIEN" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TB_DAPAN_TB_CAUHOI">
+          <End Role="TB_CAUHOI" Type="DB_TRACNGHIEMModel.TB_CAUHOI" Multiplicity="1" />
+          <End Role="TB_DAPAN" Type="DB_TRACNGHIEMModel.TB_DAPAN" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TB_CAUHOI">
+              <PropertyRef Name="MACAUHOI" />
+            </Principal>
+            <Dependent Role="TB_DAPAN">
+              <PropertyRef Name="MACAUHOI" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TB_KETQUA_TB_MONTHI">
+          <End Role="TB_MONTHI" Type="DB_TRACNGHIEMModel.TB_MONTHI" Multiplicity="0..1" />
+          <End Role="TB_KETQUA" Type="DB_TRACNGHIEMModel.TB_KETQUA" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TB_MONTHI">
+              <PropertyRef Name="MAMON" />
+            </Principal>
+            <Dependent Role="TB_KETQUA">
+              <PropertyRef Name="MAMON" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_TB_KETQUA_TB_THISINH">
+          <End Role="TB_THISINH" Type="DB_TRACNGHIEMModel.TB_THISINH" Multiplicity="0..1" />
+          <End Role="TB_KETQUA" Type="DB_TRACNGHIEMModel.TB_KETQUA" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TB_THISINH">
+              <PropertyRef Name="MATHISINH" />
+            </Principal>
+            <Dependent Role="TB_KETQUA">
+              <PropertyRef Name="MATHISINH" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DB_TRACNGHIEMModelStoreContainer" CdmEntityContainer="DB_TRACNGHIEMEntities">
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="DB_TRACNGHIEMModel.sysdiagrams">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TB_CAUHOI">
+            <EntityTypeMapping TypeName="DB_TRACNGHIEMModel.TB_CAUHOI">
+              <MappingFragment StoreEntitySet="TB_CAUHOI">
+                <ScalarProperty Name="MACAUHOI" ColumnName="MACAUHOI" />
+                <ScalarProperty Name="NOIDUNG" ColumnName="NOIDUNG" />
+                <ScalarProperty Name="MAMON" ColumnName="MAMON" />
+                <ScalarProperty Name="MANHANVIEN" ColumnName="MANHANVIEN" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TB_DAPAN">
+            <EntityTypeMapping TypeName="DB_TRACNGHIEMModel.TB_DAPAN">
+              <MappingFragment StoreEntitySet="TB_DAPAN">
+                <ScalarProperty Name="MACAUHOI" ColumnName="MACAUHOI" />
+                <ScalarProperty Name="MADAPAN" ColumnName="MADAPAN" />
+                <ScalarProperty Name="NOIDUNGDAPAN" ColumnName="NOIDUNGDAPAN" />
+                <ScalarProperty Name="KIEUDAPAN" ColumnName="KIEUDAPAN" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TB_KETQUA">
+            <EntityTypeMapping TypeName="DB_TRACNGHIEMModel.TB_KETQUA">
+              <MappingFragment StoreEntitySet="TB_KETQUA">
+                <ScalarProperty Name="MAKQ" ColumnName="MAKQ" />
+                <ScalarProperty Name="MATHISINH" ColumnName="MATHISINH" />
+                <ScalarProperty Name="TENTHISINH" ColumnName="TENTHISINH" />
+                <ScalarProperty Name="MAMON" ColumnName="MAMON" />
+                <ScalarProperty Name="DIEM" ColumnName="DIEM" />
+                <ScalarProperty Name="NGAYTHI" ColumnName="NGAYTHI" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TB_MONTHI">
+            <EntityTypeMapping TypeName="DB_TRACNGHIEMModel.TB_MONTHI">
+              <MappingFragment StoreEntitySet="TB_MONTHI">
+                <ScalarProperty Name="MAMON" ColumnName="MAMON" />
+                <ScalarProperty Name="TENMON" ColumnName="TENMON" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TB_NHANVIEN">
+            <EntityTypeMapping TypeName="DB_TRACNGHIEMModel.TB_NHANVIEN">
+              <MappingFragment StoreEntitySet="TB_NHANVIEN">
+                <ScalarProperty Name="MANHANVIEN" ColumnName="MANHANVIEN" />
+                <ScalarProperty Name="HOTEN" ColumnName="HOTEN" />
+                <ScalarProperty Name="TENDN" ColumnName="TENDN" />
+                <ScalarProperty Name="MATKHAU" ColumnName="MATKHAU" />
+                <ScalarProperty Name="CHUCVU" ColumnName="CHUCVU" />
+                <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+                <ScalarProperty Name="SODIENTHOAI" ColumnName="SODIENTHOAI" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TB_THISINH">
+            <EntityTypeMapping TypeName="DB_TRACNGHIEMModel.TB_THISINH">
+              <MappingFragment StoreEntitySet="TB_THISINH">
+                <ScalarProperty Name="MATHISINH" ColumnName="MATHISINH" />
+                <ScalarProperty Name="HOTEN" ColumnName="HOTEN" />
+                <ScalarProperty Name="TENDN" ColumnName="TENDN" />
+                <ScalarProperty Name="MATKHAU" ColumnName="MATKHAU" />
+                <ScalarProperty Name="DIACHI" ColumnName="DIACHI" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2008/10/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="False" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams>
+      <Diagram Name="QLTS2">
+        <EntityTypeShape EntityType="DB_TRACNGHIEMModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="7.875" Height="1.9802864583333326" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_TRACNGHIEMModel.TB_CAUHOI" Width="1.5" PointX="3" PointY="3.875" Height="2.3648893229166674" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_TRACNGHIEMModel.TB_DAPAN" Width="1.5" PointX="5.25" PointY="8" Height="1.9802864583333317" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_TRACNGHIEMModel.TB_KETQUA" Width="1.5" PointX="6" PointY="3.75" Height="2.5571907552083335" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_TRACNGHIEMModel.TB_MONTHI" Width="1.5" PointX="0.75" PointY="4.125" Height="1.7879850260416665" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_TRACNGHIEMModel.TB_NHANVIEN" Width="1.5" PointX="0.75" PointY="0.75" Height="2.5571907552083317" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_TRACNGHIEMModel.TB_THISINH" Width="1.5" PointX="3.75" PointY="11" Height="2.1725878906249996" IsExpanded="true" />
+        <AssociationConnector Association="DB_TRACNGHIEMModel.FK_TB_CAUHOI_TB_MONTHI" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.25" PointY="5.0189925130208337" />
+          <ConnectorPoint PointX="3" PointY="5.0189925130208337" />
+        </AssociationConnector>
+        <AssociationConnector Association="DB_TRACNGHIEMModel.FK_TB_CAUHOI_TB_NHANVIEN" ManuallyRouted="false">
+          <ConnectorPoint PointX="2.25" PointY="2.0285953776041659" />
+          <ConnectorPoint PointX="3.75" PointY="2.0285953776041659" />
+          <ConnectorPoint PointX="3.75" PointY="3.875" />
+        </AssociationConnector>
+        <AssociationConnector Association="DB_TRACNGHIEMModel.FK_TB_DAPAN_TB_CAUHOI" ManuallyRouted="false">
+          <ConnectorPoint PointX="3.75" PointY="6.2398893229166674" />
+          <ConnectorPoint PointX="3.75" PointY="8.9901432291666659" />
+          <ConnectorPoint PointX="4.791666666666667" PointY="8.9901432291666659" />
+          <ConnectorPoint PointX="4.958333333333333" PointY="8.9901432291666659" />
+          <ConnectorPoint PointX="5.25" PointY="8.9901432291666659" />
+        </AssociationConnector>
+        <AssociationConnector Association="DB_TRACNGHIEMModel.FK_TB_KETQUA_TB_MONTHI" ManuallyRouted="false">
+          <ConnectorPoint PointX="1.5" PointY="4.125" />
+          <ConnectorPoint PointX="1.5" PointY="3.78125" />
+          <ConnectorPoint PointX="3.6666666666666665" PointY="3.7812499999999996" />
+          <ConnectorPoint PointX="3.8333333333333335" PointY="3.78125" />
+          <ConnectorPoint PointX="6" PointY="3.78125" />
+        </AssociationConnector>
+        <AssociationConnector Association="DB_TRACNGHIEMModel.FK_TB_KETQUA_TB_THISINH" ManuallyRouted="false">
+          <ConnectorPoint PointX="4.875" PointY="11" />
+          <ConnectorPoint PointX="4.875" PointY="3.796875" />
+          <ConnectorPoint PointX="6" PointY="3.796875" />
+        </AssociationConnector>
+      </Diagram>
+    </Diagrams>
+  </Designer>
+</edmx:Edmx>

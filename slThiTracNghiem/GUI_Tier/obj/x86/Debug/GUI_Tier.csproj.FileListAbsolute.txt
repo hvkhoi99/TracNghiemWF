@@ -1,0 +1,223 @@
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\GUI_Tier.exe
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\GUI_Tier.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm2_GiaoDienChinh.resources
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Business_Tier.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Entities.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Data_Tier.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Business_Tier.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Entities.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Data_Tier.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm1_DN.resources
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm0_FormSpalsh.resources
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm4_DangKyThongTinThi.resources
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm5_KetQuaThi.resources
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm6_QuanLyCauHoi.resources
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm7_DoiMatKhau.resources
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.ResolveComReference.cache
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm9_QuanLyThiSinh.resources
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm8_QuanLyTaiKhoan_NhanVien.resources
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm3_ThiTracNghiem.resources
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.ResolveComReference.cache
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\GUI_Tier.exe
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\GUI_Tier.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Business_Tier.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Entities.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Data_Tier.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Entities.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm0_FormSpalsh.resources
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm3_ThiTracNghiem.resources
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm9_QuanLyThiSinh.resources
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm1_DN.resources
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm2_GiaoDienChinh.resources
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm4_DangKyThongTinThi.resources
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm5_KetQuaThi.resources
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm6_QuanLyCauHoi.resources
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm7_DoiMatKhau.resources
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm8_QuanLyTaiKhoan_NhanVien.resources
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.ResolveComReference.cache
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\GUI_Tier.exe
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\GUI_Tier.pdb
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Business_Tier.dll
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Entities.dll
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Data_Tier.dll
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Business_Tier.pdb
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Entities.pdb
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Data_Tier.pdb
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm0_FormSpalsh.resources
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm3_ThiTracNghiem.resources
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm9_QuanLyThiSinh.resources
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm1_DN.resources
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm2_GiaoDienChinh.resources
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm4_DangKyThongTinThi.resources
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm5_KetQuaThi.resources
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm6_QuanLyCauHoi.resources
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm7_DoiMatKhau.resources
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm8_QuanLyTaiKhoan_NhanVien.resources
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frmINBANGDIEM.resources
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frmINDANHSACHCACNHANVIEN.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.ResolveComReference.cache
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.csprojResolveAssemblyReference.cache
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm0_FormSpalsh.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm3_ThiTracNghiem.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm9_QuanLyThiSinh.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm1_DN.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm2_GiaoDienChinh.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm4_DangKyThongTinThi.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm5_KetQuaThi.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm6_QuanLyCauHoi.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm7_DoiMatKhau.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frm8_QuanLyTaiKhoan_NhanVien.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frmINBANGDIEM.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.frmINDANHSACHCACNHANVIEN.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.GenerateResource.Cache
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.ResolveComReference.cache
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\GUI_Tier.exe
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\GUI_Tier.pdb
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\Business_Tier.dll
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\Entities.dll
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\Data_Tier.dll
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\Business_Tier.pdb
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\Entities.pdb
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\Data_Tier.pdb
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.csprojResolveAssemblyReference.cache
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm0_FormSpalsh.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm3_ThiTracNghiem.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm9_QuanLyThiSinh.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm1_DN.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm2_GiaoDienChinh.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm4_DangKyThongTinThi.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm5_KetQuaThi.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm6_QuanLyCauHoi.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm7_DoiMatKhau.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm8_QuanLyTaiKhoan_NhanVien.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frmINBANGDIEM.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frmINDANHSACHCACNHANVIEN.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.GenerateResource.Cache
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\EntityFramework.dll
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\EntityFramework.SqlServer.dll
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\EntityFramework.xml
+C:\Garena\slThiTracNghiem\GUI_Tier\bin\Debug\EntityFramework.SqlServer.xml
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frmResultBefore.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.Client.resources
+C:\Garena\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.Server.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.ResolveComReference.cache
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\GUI_Tier.exe
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\GUI_Tier.pdb
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\Business_Tier.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\Entities.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\EntityFramework.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\Data_Tier.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\Entities.pdb
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\EntityFramework.xml
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.csprojResolveAssemblyReference.cache
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm0_FormSpalsh.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm3_ThiTracNghiem.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm9_QuanLyThiSinh.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm1_DN.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm2_GiaoDienChinh.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm4_DangKyThongTinThi.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm5_KetQuaThi.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm6_QuanLyCauHoi.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm7_DoiMatKhau.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm8_QuanLyTaiKhoan_NhanVien.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frmINBANGDIEM.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frmINDANHSACHCACNHANVIEN.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frmResultBefore.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+C:\Users\KHOI\Desktop\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.GenerateResource.Cache
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\GUI_Tier.exe.config
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.ResolveComReference.cache
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.exe
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.pdb
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\GUI_Tier.exe
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\GUI_Tier.pdb
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\Business_Tier.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\Entities.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\EntityFramework.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\Data_Tier.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\Entities.pdb
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\EntityFramework.xml
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.csprojResolveAssemblyReference.cache
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm0_FormSpalsh.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm3_ThiTracNghiem.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm9_QuanLyThiSinh.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm1_DN.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm2_GiaoDienChinh.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm4_DangKyThongTinThi.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm5_KetQuaThi.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm6_QuanLyCauHoi.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm7_DoiMatKhau.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frm8_QuanLyTaiKhoan_NhanVien.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frmINBANGDIEM.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frmINDANHSACHCACNHANVIEN.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.frmResultBefore.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.Properties.Resources.resources
+C:\Users\KHOI\Desktop\abc\slThiTracNghiem\GUI_Tier\obj\x86\Debug\GUI_Tier.csproj.GenerateResource.Cache
